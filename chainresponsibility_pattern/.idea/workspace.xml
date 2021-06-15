@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8666518-bbf3-4259-8441-b9abe4443e5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../builder_design_pattern/src/com/company/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder_design_pattern/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/acclerate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/brake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/carservice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/racingCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/out/production/solidprinciples/com/company/vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/solidprinciples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/racingCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solidprinciples-Violation/src/com/company/vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/acclerate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/brake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/carservice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/racingCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/out/production/solidprinciples/com/company/vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/solidprinciples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/Insurance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/racingCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidprinciples/src/com/company/vehicle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tts899CZGpFjennHZZskh6OzSn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="chainresponsibility_pattern" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8666518-bbf3-4259-8441-b9abe4443e5b" name="Default Changelist" comment="" />
+      <created>1623599559945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623599559945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
